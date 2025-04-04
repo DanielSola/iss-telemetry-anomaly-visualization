@@ -11,7 +11,7 @@ const App = () => {
     const data1 = [
       {
         x: [time],
-        y: [0], // Initial value for the first plot
+        y: [0], // Initial value for the first plot 
         mode: 'lines',
         line: { color: '#80CAF6' },
       },
