@@ -1,5 +1,5 @@
 export type TelemetryData = {
-  name: string;
+  name: 'FLOWRATE' | 'PRESSURE' | 'TEMPERATURE';
   value: string;
   timestamp: string;
 };
